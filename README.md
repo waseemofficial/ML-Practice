@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fwaseemofficial%2{env.}.json%3Fcolor%3Dpink"/>
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fwaseemofficial%2FML-Practice.json%3Fcolor%3Dpink"/>
 
 
 
@@ -22,10 +22,12 @@
 </a>
 <br>
 
-<img src="https://img.shields.io/github/license/waseemofficial/{env.}.svg?style=flat"/> <img src="https://img.shields.io/github/languages/top/waseemofficial/{env.}?style=flat"/> <img src="https://img.shields.io/github/stars/waseemofficial/{env.}.svg?colorB=orange&style=flat"/> <img sec="https://img.shields.io/github/languages/top/waseemofficial/{env.}.svg?style=flat"/> <img src="https://img.shields.io/github/languages/code-size/waseemofficial/{env.}.svg?style=flat"/> <img src="https://img.shields.io/github/issues-raw/waseemofficial/{env.}.svg?style=flat" />
+<img src="https://img.shields.io/github/license/waseemofficial/ML-Practice.svg?style=flat"/> <img src="https://img.shields.io/github/languages/top/waseemofficial/ML-Practice?style=flat"/> <img src="https://img.shields.io/github/stars/waseemofficial/ML-Practice.svg?colorB=orange&style=flat"/> <img sec="https://img.shields.io/github/languages/top/waseemofficial/ML-Practice.svg?style=flat"/> <img src="https://img.shields.io/github/languages/code-size/waseemofficial/ML-Practice.svg?style=flat"/> <img src="https://img.shields.io/github/issues-raw/waseemofficial/ML-Practice.svg?style=flat" />
 </div>
 
 <div align="center"> 
+
+---
 
 ### Languages
 
@@ -54,12 +56,16 @@
 ![GitHub](https://img.shields.io/badge/-Regex-000?&logo=Regex)
 ![GithubActions](https://img.shields.io/badge/-GithubActions-000?&logo=GithubActions)
 </div>
-<div align="left">
- 
-# Title
 
-==Array==
+---
+
+
+<div align="left">
+
+
+# ML Practice
+
+
 </div>
-==Array==
 
 
